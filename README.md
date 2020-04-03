@@ -1,5 +1,8 @@
 # 情報収集用スクレイピングコードで取得できていない県情報
 
+各都道府県のCOVID-19の一覧サイト
+https://hackmd.io/9TTyyjchR8ufuMd9z08Rcg
+
 ### 残りの県
 
 新潟県
